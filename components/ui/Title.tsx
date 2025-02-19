@@ -20,5 +20,9 @@ const styles = StyleSheet.create({
     textAlign: "center",
     borderColor: "white",
     borderWidth: 2,
+
+    // sitting dynamic width
+    maxWidth: "80%",
+    width: 300,
   },
 });
